@@ -7,4 +7,4 @@ where each bag contains a set of instances and one single label.
 MIL is most commonly used on very large whole slide images,
 but it can be applied to any kind of large images that can't be processed by itself.
 
-![image info](https://i.ibb.co/XJhjM7t/Untitled-Diagram-drawio.png)
+![image info](static/diagram.png)
